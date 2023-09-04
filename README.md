@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sarthakagrawal6/sarthakagrawal6/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
