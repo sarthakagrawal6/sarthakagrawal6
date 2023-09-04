@@ -36,8 +36,6 @@
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
 </div>
 
-###
-
 <br clear="both">
 ###
 
