@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mickeyminion14/mickeyminion14/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
